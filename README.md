@@ -1,4 +1,4 @@
 ﻿# my-portfolio
- <link href="style.css">
+<link href="C:\Web Devlopment\my-portfolio\style.css"></link>
 #idex.html
 #style.css
