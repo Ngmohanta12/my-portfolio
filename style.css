@@ -2,6 +2,7 @@ body{
 font-family: 'Raleway', sans-serif;
 font-family: 'Permanent Marker', cursive;
 margin: 0;
+background-image: linear-gradient( #c4fcf9, rgb(168, 235, 255));
 }
 h1{
     font-size: 50px;
@@ -11,10 +12,11 @@ h2{
     font-size: 40px;
 }
 p{
-    color: dimgrey;
+    color:rgb(1, 26, 10);
+    font-size: 20px;
 }
 .name-highlight{
-    color: orange;
+    color:orange;
 }
 .name-highlight1{
     color: tomato;
@@ -29,7 +31,7 @@ display: block;
 .half-width img{
     width: 100%;}
 .top-banner{
-    background-image: url("developer-portfolio/top-banner.png");
+    background-image: url("developer-portfolio/topbanner2.png");
     background-repeat: no-repeat;
 
 }
@@ -51,7 +53,7 @@ section{
     width: 100%;
 }
 .target-area{
-    background-image: url("developer-portfolio/dream-bg.png");
+    background-image: url("developer-portfolio/dreambg.png");
     background-repeat: no-repeat;
     background-position: right;
 
@@ -68,9 +70,10 @@ section{
 height: 65%;
 }
 .exeperience-area{
-    background-image: url("developer-portfolio/exp-bg.png");
+    background-image: url("developer-portfolio/bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    color: rgb(5, 66, 21);
 }
 #html-learner{
     border-left: 7px solid;
